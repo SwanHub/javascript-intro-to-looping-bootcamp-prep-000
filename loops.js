@@ -23,5 +23,9 @@ function whileLoop(num) {
 
 whileLoop(num);
 
+function doWhile(int) {
+  console.log("I run once regardless."")
+}
+
 
 
