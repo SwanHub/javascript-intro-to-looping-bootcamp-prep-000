@@ -28,3 +28,20 @@ function incrementVariable() {
   return i;
 }
 
+function doWhileLoop(num) {
+  do { 
+    console.log("I run once regardless."); 
+    
+  } while (incrementVariable() < num);
+}
+
+let j = 10;
+let i = 0;
+
+doWhileLoop(j);
+
+j = 20;
+i = 10;
+
+
+
