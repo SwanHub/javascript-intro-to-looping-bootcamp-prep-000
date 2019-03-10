@@ -39,7 +39,7 @@ function doWhileLoop(num) {
 
 doWhileLoop(0);
 
-i = 0;
+var i = 0;
 
 doWhileLoop(10);
 
