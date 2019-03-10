@@ -43,7 +43,7 @@ doWhileLoop(j);
 j = 10;
 i = 0;
 
-doWhileLoop(j);
+doWhileLoop(10);
 
 
 
