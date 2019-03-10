@@ -35,12 +35,10 @@ function doWhileLoop(num) {
   } while (incrementVariable() < num);
 }
 
-let j = 10;
 let i = 0;
 
-doWhileLoop(j);
+doWhileLoop(10);
 
-j = 10;
 i = 0;
 
 doWhileLoop(10);
