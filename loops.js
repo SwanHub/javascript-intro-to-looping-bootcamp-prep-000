@@ -23,6 +23,8 @@ function whileLoop(num) {
 
 whileLoop(num);
 
+var i = 0;
+
 function incrementVariable() {
   i = i + 1;
   return i;
@@ -34,12 +36,6 @@ function doWhileLoop(num) {
     
   } while (incrementVariable() < num);
 }
-
-let i = 0;
-
-doWhileLoop(10);
-
-i = 0;
 
 doWhileLoop(10);
 
