@@ -39,8 +39,6 @@ function doWhileLoop(num) {
 }
 ////
 
-
-
 var i = 0;
 
 function doWhileLoop(num) {
