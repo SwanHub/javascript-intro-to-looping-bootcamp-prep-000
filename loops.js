@@ -43,5 +43,7 @@ doWhileLoop(j);
 j = 20;
 i = 10;
 
+doWhileLoop(j);
+
 
 
