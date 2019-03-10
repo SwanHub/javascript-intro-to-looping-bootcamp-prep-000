@@ -40,8 +40,8 @@ let i = 0;
 
 doWhileLoop(j);
 
-j = 20;
-i = 10;
+j = 10;
+i = 0;
 
 doWhileLoop(j);
 
