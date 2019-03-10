@@ -28,8 +28,8 @@ function incrementVariable() {
   return i;
 }
 
-function doWhile(num) {
-  console.log("I run once regardless."")
+function doWhileLoop(num) {
+  console.log("I run once regardless.")
 }
 
 
