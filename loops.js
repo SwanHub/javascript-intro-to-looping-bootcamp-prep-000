@@ -35,7 +35,7 @@ function doWhileLoop(num) {
   } while (incrementVariable() < num);
 }
 
-let j = 7;
+let j = 10;
 let i = 0;
 
 doWhileLoop(j);
